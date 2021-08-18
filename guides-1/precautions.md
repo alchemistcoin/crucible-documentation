@@ -19,5 +19,5 @@ Please make sure you are adding tokens to the V2 pool and not V3.
 The Aludel reward system is still an ongoing experiment, please keep in mind the following precautions before taking part in the program.
 {% endhint %}
 
-If you've read the above notices, then you're ready to move on to learning [about Crucibles](../).
+If you've read the above notices, then you're ready to [mint a Crucible](how-do-i-mint-a-crucible.md)
 

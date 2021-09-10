@@ -1,6 +1,8 @@
 # How to Become a "Certified Alchemist" on Discord
 
-If you own a Crucible, you can become a Certified Alchemist on our [Discord channel](https://discord.com/invite/qWQQMMKjKe) 🧙‍♂️⚗️. One perk of becoming a certified alchemist is that it allows you to take part in discord votes and competitions.
+Learn how to become a Certified Alchemist here: [**https://docs.alchemist.wtf/crucible/guides-1/how-do-i-mint-a-crucible**](https://docs.alchemist.wtf/crucible/guides-1/how-do-i-mint-a-crucible)\*\*\*\*
+
+If you own a Crucible, you can become a Certified Alchemist in our [Discord channel](https://discord.com/invite/qWQQMMKjKe) 🧙‍♂️⚗️. One perk of becoming a Certified Alchemist is that it allows you to take part in discord votes and competitions.
 
 If your Crucible was minted using the online site, please jump to [**Part 2**](how-to-become-a-certified-alchemist-on-discord.md#part-2)\*\*\*\*
 

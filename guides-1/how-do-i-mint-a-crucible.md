@@ -17,9 +17,7 @@ If you have not done this already, please refer to our 2-part guide on [Acquirin
 
 Do not use Brave browser as it is not compatible with the process at this time and your transaction will fail, resulting in lost fees. 
 
-We do not recommend using a hardware wallet at this time as many do not currently support EIP-712 signing. When they fix this, we can implement it.
-
-We do not recommend you do this on a mobile
+The only currently compatible hardware wallet is Ledger, many others do not currently support EIP-712 signing. When other hardware wallets implement this feature they will become compatible.
 {% endhint %}
 
 ### Step by Step guide

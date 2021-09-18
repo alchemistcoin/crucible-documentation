@@ -9,7 +9,7 @@ Please make sure you are adding tokens to the V2 pool and not V3.
 {% endhint %}
 
 {% hint style="warning" %}
-* **Do not** use  Brave browser as it is not compatible with the process at this time and your transaction will fail, resulting in lost fees.
+* **Do not** use Brave browser as it is not compatible with the process at this time and your transaction will fail, resulting in lost fees.
 * The only currently compatible hardware wallet is Ledger, many others do not currently support EIP-712 signing. When other hardware wallets implement this feature they will become compatible.
 * Some users have reported issues with Trust Wallet. Please express caution when using it.
 * We do not recommend you do any of these processes on a mobile device.

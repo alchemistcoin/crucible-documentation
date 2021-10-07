@@ -76,6 +76,31 @@ Every time you put tokens into a reward program, it keeps track of how long thos
 
 ![](.gitbook/assets/untitled.png)
 
+## **How does the multiplier work?**
+
+The multiplier is a release mechanism that will scale your rewards until you reach the full portion of the pool that you're entitled to.
+
+Using `Aludel v1.5` as an example; the program has a max multiplier of `10x` a minimum multiplier of `1x` and a scaling period of `60 days`.
+
+Let's say you have `10 LP` tokens currently staked and there is a total of `1000LP` tokens staked to the pool, this means you have staked `1%`  of the total staked amount in the program. That means that you should be eligible to `1%` of the tokens that are available in the program.
+
+However when you start, you are at `1x` of your multiplier, what this means is that you would be entitled to `% of total stake * min multiplier / max multiplier = your current eligibility` or `1% * 1/10 = 0.1%` of the pool.
+
+Let's assume the pool has `100 MIST` tokens, at `1x`  you would be entitled to 0.1 MIST tokens and at `10x` you would be entitled to `1 MIST` token.
+
+Every second you are in the pool during the scaling period of `60 days`, the portion of the pool that you are eligible for grows towards your full eligibility. The calculation has a direct impact to the amount of rewards that are displayed to you and is always represented in the amount of rewards displayed.
+
+To work out what percentage is available to you at any time, you can work out your multiplier with the following formula:  
+`((your max percentage of pool * duration staked days * (max multiplier - 1))/max multiplier)/scaling period days) + (your max percentage of pool * (1/max multiplier))` 
+
+With the example above, at 10 days you would be eligible to `0.25%` of the pool, at 40 days you are eligible to `0.7%` of the pool 
+
+`1%*10*(9)/10/60+(1%*(1/10)) = 0.25%`
+
+Once you reach `10x` you would be entitled to 1 MIST from that balance. If another 100 MIST gets dropped into the program and is fully released \(deposits have their own release mechanism\) - then you will be eligible for 2 MIST in total \(1 MIST from before and 1 MIST from the newest deposit\)
+
+These examples are on the assumption that the participation of the pool doesn't change, but simple enough to demonstrate how the multiplier works.
+
 ## **Can I somehow see how much rewards I have acquired in the meantime?**
 
 You can see the accumulated reward for your crucible by using the UI at [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) and the accumulated Uniswap LP fees earned using [apy.vision](https://apy.vision/) or [croco.finance](https://croco.finance/) \(Uniswap LP fees earned will show as ⚗️, and WETH or ETH\).

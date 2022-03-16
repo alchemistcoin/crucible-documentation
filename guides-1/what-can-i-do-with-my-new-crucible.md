@@ -83,9 +83,12 @@ You can transfer your Crucible to another wallet without affecting the tokens th
 
 ## Viewing your Crucible artwork
 
+You can now view your Crucible either on the Crucible website or on most NFT websites. Use the guides below:
 
+* [Opensea.io Guide](what-can-i-do-with-my-new-crucible.md#via-opensea)
+* [Crucible.wtf Guide](what-can-i-do-with-my-new-crucible.md#via-crucible.wtf)
 
-Via Opensea
+### Via Opensea.io
 
 1. Open [opensea.io](https://opensea.io)
 2. Connect your wallet
@@ -101,7 +104,7 @@ Via Opensea
 
 ![](<../.gitbook/assets/Screenshot 2022-03-16 at 00.22.20.png>)
 
-Via crucible.wtf
+### Via Crucible.wtf
 
 1. Open [crucible.wtf](https://crucible.wtf), connect your wallet and visit "Your Crucibles" tab.
 2. Once on the "Your Crucibles" tab, click on the crucible that you want to view the rewards from.\
@@ -111,6 +114,22 @@ Via crucible.wtf
 ![If you own a Basic Crucible your Crucible will not have any artwork unless you upgrade it to a Pro Crucible by paying a fee of 0.05 ETH.](<../.gitbook/assets/Screenshot 2022-03-15 at 23.00.18.png>)
 
 ![If you own a Pro or Platinum Crucible,  you will be able to view your Crucible's artwork and interact with it.](<../.gitbook/assets/Screenshot 2022-03-15 at 23.03.33.png>)
+
+## Interacting with your Crucible Artwork
+
+Interacting with your Crucible is relatively straight forward and can be done from a computer or mobile device
+
+Use the Viewing your Crucible Artwork section above to load your artwork
+
+You can then click the information icon in the Crucible scene to load the instructions of how to interact with the scene on the device\
+![](<../.gitbook/assets/Screenshot 2022-03-16 at 00.31.05.png>)
+
+Depending on the device you are on, you will either be provided instructions to be used with a mouse or by touch gestures.\
+![](<../.gitbook/assets/Screenshot 2022-03-16 at 00.31.59.png>)![](<../.gitbook/assets/Screenshot 2022-03-16 at 00.32.24.png>)
+
+You can also interact with the Crucible directly, for example clicking on the '[Clock](artwork-of-the-crucible.md#33fe)' element of your Crucible ([learn more about Crucible Elements](artwork-of-the-crucible.md#1c5f)) will display the mint time and date for when your Crucible was created and also the Mint number.
+
+There are other various interactions hidden in the Crucible scene waiting to be discovered.
 
 ## Sharing your Crucible Contents and/or Artwork
 

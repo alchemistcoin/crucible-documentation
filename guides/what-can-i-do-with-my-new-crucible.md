@@ -3,13 +3,13 @@
 There are a number of things you can do with your newly minted crucible, below are the most common things that you can do using [crucible.wtf](https://crucible.wtf)
 
 * [Checking your rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
-* [Increasing your Subscription Stake](what-can-i-do-with-my-new-crucible.md#increasing-your-lp-subscription)
-* [Checking balances of current subscriptions or token balances within to your Crucible](what-can-i-do-with-my-new-crucible.md#checking-how-much-lp-youve-subscribed-to-your-crucible)
+* [Increasing your Subscription Stake](what-can-i-do-with-my-new-crucible.md#increasing-your-subscription-stake)
+* [Checking balances of current subscriptions or token balances within to your Crucible](what-can-i-do-with-my-new-crucible.md#checking-balances-of-current-subscriptions-or-token-balances-within-your-crucible)
 * [Transferring your Crucible to another wallet](what-can-i-do-with-my-new-crucible.md#transferring-your-crucible-to-another-wallet)
 * [Locating and Copying your Crucible Address](what-can-i-do-with-my-new-crucible.md#locating-and-copying-your-crucible-address)
 * [Viewing your Crucible Artwork](what-can-i-do-with-my-new-crucible.md#viewing-your-crucible-artwork)
 * [Interacting with your Crucible Artwork](what-can-i-do-with-my-new-crucible.md#interacting-with-your-crucible-artwork)
-* [Sharing your Crucible Contents and/or Artwork](what-can-i-do-with-my-new-crucible.md#undefined)
+* [Sharing your Crucible Contents and/or Artwork](what-can-i-do-with-my-new-crucible.md#sharing-your-crucible-contents-and-or-artwork)
 
 ## Checking your rewards
 
@@ -112,9 +112,17 @@ You can now view your Crucible either on the Crucible website or on most NFT web
    ![](../.gitbook/assets/screenshot-2021-08-03-at-19.25.48.png)&#x20;
 3. Click on the "View" Tab at the top of the section&#x20;
 
-![If you own a Basic Crucible your Crucible will not have any artwork unless you upgrade it to a Pro Crucible by paying a fee of 0.05 ETH.](<../.gitbook/assets/Screenshot 2022-03-15 at 23.00.18.png>)
+![](<../.gitbook/assets/Screenshot 2022-03-15 at 23.00.18.png>)
 
-![If you own a Pro or Platinum Crucible,  you will be able to view your Crucible's artwork and interact with it.](<../.gitbook/assets/Screenshot 2022-03-15 at 23.03.33.png>)
+{% hint style="warning" %}
+If you own a <mark style="color:purple;">`Basic Crucible`</mark> your Crucible will not have any artwork unless you upgrade it to a <mark style="color:purple;">`Pro Crucible`</mark> \
+\
+This can be done by clicking the <mark style="color:purple;">`Upgrade`</mark> button and paying a fee of 0.05 ETH.
+{% endhint %}
+
+![](<../.gitbook/assets/Screenshot 2022-03-15 at 23.03.33.png>)
+
+If you own a `Pro` or `Platinum` Crucible,  you will be able to view your Crucible's artwork and interact with it.
 
 ## Interacting with your Crucible Artwork
 

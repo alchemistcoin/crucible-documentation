@@ -3,8 +3,9 @@
 {% hint style="info" %}
 **For information on how to view your Crucible artwork, please refer to the FAQ sections:**
 
-* [Viewing your Crucible Artwork](what-can-i-do-with-my-new-crucible.md#viewing-your-crucible-artwork)
-* [Sharing your Crucible Contents and/or Artwork](what-can-i-do-with-my-new-crucible.md#sharing-your-crucible-contents-and-or-artwork)
+* [Viewing your Crucible Artwork](https://docs.alchemist.wtf/crucible/guides/what-can-i-do-with-my-new-crucible#viewing-your-crucible-artwork)
+* [Interacting with your Crucible Artwork](https://docs.alchemist.wtf/crucible/guides/what-can-i-do-with-my-new-crucible#interacting-with-your-crucible-artwork)
+* [Sharing your Crucible Contents and/or Artwork](https://docs.alchemist.wtf/crucible/guides/what-can-i-do-with-my-new-crucible#sharing-your-crucible-contents-and-or-artwork)
 {% endhint %}
 
 > The Crucible artwork is not just an image or a video, but it’s an interactive visualization, fully 3D and rendered in real-time. It’s not only a generative piece of art based on your crucible ID, but also an evolving and living companion to your DeFi journey. The Crucible artwork will change with time and with your interactions, and will also act as a gateway to future possibilities with the Alchemist ecosystem.
@@ -99,5 +100,6 @@ For those who minted before Aludel v1 was turned off, we prepared a few special 
 * A special background visual effect, lighting up the galaxy behind them. The nebula effect is also more dense the older the crucible is, so it’s double the effectiveness
 * For the first 1000 Crucible Holders in history, a special Sticker can be seen on the bottom of the Shell!
 * The achievement for participating in Aludel v1, of course
-* Plus more coming soon!
+* Galaxy rings for all <mark style="color:purple;">`Arcane`</mark> Crucibles
+* _Plus more coming soon!_
 

@@ -33,7 +33,7 @@ The rewards you receive will be from the unsubscribed 1 ⚗️-WETH LP, not the 
    You can even click the number next to the subscription line in order to select the subscription level you wish to unsubscribe.\
    ![](../.gitbook/assets/screenshot-2021-08-03-at-20.26.08.png) \
 
-6. You will need to sign the first signature request, then you will be able to see the transaction cost for unsubscribing, pressing cancel will stop the process happening. If you agree and press Ok, you will be given a second signature request, click Sign.\
+6. You will need to sign the first signature request, then you will be able to see the transaction cost for unsubscribing, pressing cancel will stop the process happening. If you agree and press <mark style="color:purple;">`OK`</mark>, you will be given a second signature request, click Sign.\
    ![](../.gitbook/assets/screenshot-2021-08-03-at-20.27.23.png) \
    ![](../.gitbook/assets/screenshot-2021-08-03-at-20.28.55.png) \
    ![](../.gitbook/assets/screenshot-2021-08-03-at-20.32.35.png) \

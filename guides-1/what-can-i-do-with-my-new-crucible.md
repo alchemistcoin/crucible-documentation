@@ -8,6 +8,7 @@ There are a number of things you can do with your newly minted crucible, below a
 * [Transferring your Crucible to another wallet](what-can-i-do-with-my-new-crucible.md#transferring-your-crucible-to-another-wallet)
 * [Locating and Copying your Crucible Address](what-can-i-do-with-my-new-crucible.md#locating-and-copying-your-crucible-address)
 * [Viewing your Crucible Artwork](what-can-i-do-with-my-new-crucible.md#viewing-your-crucible-artwork)
+* [Interacting with your Crucible Artwork](what-can-i-do-with-my-new-crucible.md#interacting-with-your-crucible-artwork)
 * [Sharing your Crucible Contents and/or Artwork](what-can-i-do-with-my-new-crucible.md#undefined)
 
 ## Checking your rewards

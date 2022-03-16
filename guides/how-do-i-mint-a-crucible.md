@@ -8,7 +8,7 @@ Not a fan of reading? Use the community created video guide above on how to mint
 
 There are several options to mint a Crucible:
 
-| Crucible                                                                     | Cost                         | Artwork | Benefits                                 | Upgradeable |
+| Crucible                                                                     | Requirements                 | Artwork | Benefits                                 | Upgradeable |
 | ---------------------------------------------------------------------------- | ---------------------------- | :-----: | ---------------------------------------- | ----------- |
 | [Basic Crucible](how-do-i-mint-a-crucible.md#minting-a-basic-crucible)       | Gas only                     |    ⤫    | Reward Programs                          | ✓ Pro       |
 | [Pro Crucible](how-do-i-mint-a-crucible.md#minting-a-pro-crucible)           | <p>0.05 ETH<br>+ Gas</p>     |    ✓    | <p>Reward Programs<br>+ Crucible Key</p> | ⤫           |
@@ -72,7 +72,11 @@ First of all, you need to have MIST-WETH LP from the [Uniswap-V2 Liquidity pool]
 
 If you have not done this already, please refer to our 2-part guide on [Acquiring ⚗️ & Adding Liquidity](../acquiring-and-adding-liquidity.md).
 
-Once you've obtained MIST-WETH LP then you can continue to follow the steps below:
+Once you've obtained MIST-WETH LP then you can continue to follow the steps below
+
+{% hint style="success" %}
+Your MIST-WETH LP used to mint a Crucible is automatically subscribed to Aludel v1.5. You will not lose any portion of your LP balance during the minting process.
+{% endhint %}
 
 ### Step by Step guide
 

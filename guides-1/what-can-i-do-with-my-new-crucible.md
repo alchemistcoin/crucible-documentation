@@ -83,6 +83,26 @@ You can transfer your Crucible to another wallet without affecting the tokens th
 
 ## Viewing your Crucible artwork
 
+
+
+Via Opensea
+
+1. Open [opensea.io](https://opensea.io)
+2. Connect your wallet
+3. Click your user icon in the top right hand corner\
+   ![](<../.gitbook/assets/Screenshot 2022-03-16 at 00.20.35.png>)
+4. Locate your Crucible NFT in your collection and select it\
+   ![](<../.gitbook/assets/Screenshot 2022-03-16 at 00.21.35.png>)
+5. You can now see your Crucible artwork in the top left hand corner of the screen. \
+   \
+   Scroll down and you can also view your Crucibles `Properties`, `mint number` and `mint date`. You can also view links to view your Crucible contents on the Crucible website or EtherScan within the `Description` section.&#x20;
+
+![](<../.gitbook/assets/Screenshot 2022-03-16 at 00.22.01.png>)
+
+![](<../.gitbook/assets/Screenshot 2022-03-16 at 00.22.20.png>)
+
+Via crucible.wtf
+
 1. Open [crucible.wtf](https://crucible.wtf), connect your wallet and visit "Your Crucibles" tab.
 2. Once on the "Your Crucibles" tab, click on the crucible that you want to view the rewards from.\
    ![](../.gitbook/assets/screenshot-2021-08-03-at-19.25.48.png)&#x20;

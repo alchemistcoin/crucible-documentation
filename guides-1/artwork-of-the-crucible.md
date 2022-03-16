@@ -3,8 +3,8 @@
 {% hint style="info" %}
 **For information on how to view your Crucible artwork, please refer to the FAQ sections:**
 
-* [Viewing your Crucible Artwork](artwork-of-the-crucible.md#viewing-your-crucible-artwork)
-* [Sharing your Crucible Contents and/or Artwork](artwork-of-the-crucible.md#undefined)****
+* [Viewing your Crucible Artwork](what-can-i-do-with-my-new-crucible.md#viewing-your-crucible-artwork)
+* [Sharing your Crucible Contents and/or Artwork](what-can-i-do-with-my-new-crucible.md#sharing-your-crucible-contents-and-or-artwork)
 {% endhint %}
 
 > The Crucible artwork is not just an image or a video, but it’s an interactive visualization, fully 3D and rendered in real-time. It’s not only a generative piece of art based on your crucible ID, but also an evolving and living companion to your DeFi journey. The Crucible artwork will change with time and with your interactions, and will also act as a gateway to future possibilities with the Alchemist ecosystem.

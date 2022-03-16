@@ -2,7 +2,7 @@
 
 ## What is a Crucible?
 
-A Crucible is an ERC-721 NFT (Non-Fungible Token) which is minted via [crucible.wtf](https://crucible.wtf) ([How do I mint a Crucible](guides-1/how-do-i-mint-a-crucible.md)). Crucibles are stored in an Ethereum wallet and can be used as a smart wallet for other ERC20 tokens.
+A Crucible is an ERC-721 NFT (Non-Fungible Token) which is minted via [crucible.wtf](https://crucible.wtf) ([How do I mint a Crucible](guides/how-do-i-mint-a-crucible.md)). Crucibles are stored in an Ethereum wallet and can be used as a smart wallet for other ERC20 tokens.
 
 This gives two immediate benefits;
 
@@ -13,7 +13,7 @@ So understanding that a Crucible is able to hold ERC20 tokens, this also opens t
 
 Crucibles allow you to do things differently, in addition to being a smart wallet, Crucibles also contain a vault mechanism that allows you to stake your tokens to **non-custodial** reward programs, locking them within the Crucible until you leave a program — i.e. earn rewards without giving up possession of your tokens.
 
-Not only is your Crucible smart and capable, it also has [artwork](guides-1/artwork-of-the-crucible.md) that is able to evolve over time based on your activity.
+Not only is your Crucible smart and capable, it also has [artwork](guides/artwork-of-the-crucible.md) that is able to evolve over time based on your activity.
 
 ## What is an NFT?
 
@@ -28,11 +28,11 @@ This is an important point to understand, because people have [already started l
 
 ## How do you mint a Crucible?
 
-Please use the guide [How do I mint a Crucible?](guides-1/how-do-i-mint-a-crucible.md) to learn the steps to mint your first Crucible.
+Please use the guide [How do I mint a Crucible?](guides/how-do-i-mint-a-crucible.md) to learn the steps to mint your first Crucible.
 
 ## What is a Crucible worth?
 
-The value of a Crucible is not one that is determined by its [traits](guides-1/artwork-of-the-crucible.md) alone.
+The value of a Crucible is not one that is determined by its [traits](guides/artwork-of-the-crucible.md) alone.
 
 Crucibles have been designed to hold all types of ERC20 tokens including those with an underlying value such as an LP token. Crucibles can also store ETH, so when determining the value of a Crucible, its underlying assets will have a direct impact on its value.
 
@@ -40,7 +40,7 @@ Assets that are also 'staked' or 'subscribed' to programs within a Crucible may 
 
 At a minimum, you could value a Crucible based on what you would receive back for unsubscribing its LP contents and trading back to your fiat currency.
 
-Refer to [this section](guides-1/what-can-i-do-with-my-new-crucible.md#checking-how-much-lp-youve-subscribed-to-your-crucible) below for methods to check the contents of a Crucible.
+Refer to [this section](guides/what-can-i-do-with-my-new-crucible.md#checking-how-much-lp-youve-subscribed-to-your-crucible) below for methods to check the contents of a Crucible.
 
 ## Should you mint a Crucible?
 
@@ -85,7 +85,7 @@ This also means you can even sell a Crucible complete with its underlying assets
 
 Crucible artwork is not just an image or a video, but it’s an interactive visualization, fully 3D and rendered in real-time. It’s not only a generative piece of art based on your crucible ID, but also an evolving and living companion to your DeFi journey. The Crucible artwork will change with time and with your interactions, and will also act as a gateway to future possibilities with the Alchemist ecosystem.
 
-[Read more here](guides-1/artwork-of-the-crucible.md)
+[Read more here](guides/artwork-of-the-crucible.md)
 
 ## What wallets can I use to store my Crucible?
 

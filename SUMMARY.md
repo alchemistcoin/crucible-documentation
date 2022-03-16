@@ -2,15 +2,15 @@
 
 * [Teach me about Crucibles](README.md)
 
-## Guides <a href="#guides-1" id="guides-1"></a>
+## Guides
 
-* [Precautions](guides-1/precautions.md)
-* [How do I mint a Crucible?](guides-1/how-do-i-mint-a-crucible.md)
-* [What can I do with my new Crucible?](guides-1/what-can-i-do-with-my-new-crucible.md)
-* [Artwork of the Crucible](guides-1/artwork-of-the-crucible.md)
-* [Claiming Rewards & Unsubscribing your Tokens](guides-1/claiming-rewards-and-unsubscribing-your-tokens.md)
-* [Using your Crucible as a Smart Wallet/Vault](guides-1/using-your-crucible-as-a-smart-wallet-vault.md)
-* [Viewing your reward performance](guides-1/viewing-your-reward-performance.md)
+* [Precautions](guides/precautions.md)
+* [How do I mint a Crucible?](guides/how-do-i-mint-a-crucible.md)
+* [What can I do with my new Crucible?](guides/what-can-i-do-with-my-new-crucible.md)
+* [Artwork of the Crucible](guides/artwork-of-the-crucible.md)
+* [Claiming Rewards & Unsubscribing your Tokens](guides/claiming-rewards-and-unsubscribing-your-tokens.md)
+* [Using your Crucible as a Smart Wallet/Vault](guides/using-your-crucible-as-a-smart-wallet-vault.md)
+* [Viewing your reward performance](guides/viewing-your-reward-performance.md)
 
 ## General
 

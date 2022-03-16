@@ -6,7 +6,7 @@ Please watch this Video on Impermanent loss before subscribing LP
 
 ## **How do I participate in a reward program / How do I mint a Crucible NFT?**
 
-Please use the guide [How do I mint a Crucible?](guides-1/how-do-i-mint-a-crucible.md) to learn more about this process.
+Please use the guide [How do I mint a Crucible?](guides/how-do-i-mint-a-crucible.md) to learn more about this process.
 
 ## **Why can’t I see my ⚗️Mist in my wallet?**
 
@@ -38,7 +38,7 @@ Token Decimal: 0
 
 ## **How do I claim the rewards?**
 
-Rewards are received when you [Claim Rewards and Unsubscribe](guides-1/claiming-rewards-and-unsubscribing-your-tokens.md). You can claim partial rewards by unsubscribing only a partial balance. Your multiplier will be reset for the portion of tokens that you unsubscribe.
+Rewards are received when you [Claim Rewards and Unsubscribe](guides/claiming-rewards-and-unsubscribing-your-tokens.md). You can claim partial rewards by unsubscribing only a partial balance. Your multiplier will be reset for the portion of tokens that you unsubscribe.
 
 ## **Does it matter how many tokens go into the Crucible?**
 
@@ -101,7 +101,7 @@ No, it only empties it. You retain the empty Crucible. Please note that after a 
 
 ## **Can I transfer the Crucible NFT to another wallet?**
 
-Yes, the ownership of the NFT (and the Subscribed LP tokens) can be transferred to any ERC721 compatible wallet. This can be done via the "[Transfer](guides-1/what-can-i-do-with-my-new-crucible.md#transferring-your-crucible-to-another-wallet)" option on [crucible.wtf](https://crucible.wtf)
+Yes, the ownership of the NFT (and the Subscribed LP tokens) can be transferred to any ERC721 compatible wallet. This can be done via the "[Transfer](guides/what-can-i-do-with-my-new-crucible.md#transferring-your-crucible-to-another-wallet)" option on [crucible.wtf](https://crucible.wtf)
 
 ## **If I transfer my Crucible from one wallet to another will that reset the multiplier?**
 

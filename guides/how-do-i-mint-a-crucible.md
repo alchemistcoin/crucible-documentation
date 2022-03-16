@@ -8,11 +8,11 @@ Not a fan of reading? Use the community created video guide above on how to mint
 
 There are several options to mint a Crucible:
 
-| Crucible                                                                                 | Cost                         | Artwork | Benefits                                 | Upgradeable |
-| ---------------------------------------------------------------------------------------- | ---------------------------- | :-----: | ---------------------------------------- | ----------- |
-| [Basic Crucible](how-do-i-mint-a-crucible.md#minting-a-basic-crucible)                   | Gas only                     |    ⤫    | Reward Programs                          | ✓ Pro       |
-| [Pro Crucible](how-do-i-mint-a-crucible.md#undefined)                                    | <p>0.05 ETH<br>+ Gas</p>     |    ✓    | <p>Reward Programs<br>+ Crucible Key</p> | ⤫           |
-| [Platinum Crucible](how-do-i-mint-a-crucible.md#minting-a-crucible-using-weth-lp-tokens) | <p>MIST-WETH LP<br>+ Gas</p> |    ✓    | <p>Reward Programs<br>+ Crucible Key</p> | ⤫           |
+| Crucible                                                                     | Cost                         | Artwork | Benefits                                 | Upgradeable |
+| ---------------------------------------------------------------------------- | ---------------------------- | :-----: | ---------------------------------------- | ----------- |
+| [Basic Crucible](how-do-i-mint-a-crucible.md#minting-a-basic-crucible)       | Gas only                     |    ⤫    | Reward Programs                          | ✓ Pro       |
+| [Pro Crucible](how-do-i-mint-a-crucible.md#minting-a-pro-crucible)           | <p>0.05 ETH<br>+ Gas</p>     |    ✓    | <p>Reward Programs<br>+ Crucible Key</p> | ⤫           |
+| [Platinum Crucible](how-do-i-mint-a-crucible.md#minting-a-platinum-crucible) | <p>MIST-WETH LP<br>+ Gas</p> |    ✓    | <p>Reward Programs<br>+ Crucible Key</p> | ⤫           |
 
 {% hint style="info" %}
 **Important information:**&#x20;

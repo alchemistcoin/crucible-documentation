@@ -34,7 +34,7 @@ Token Decimal: 0
 
 ## **How do I become a 'Crucible Holder'  in Discord?**
 
-* Please use this [guide](how-to-become-a-certified-alchemist-on-discord.md)
+* Please use this [guide](how-to-become-a-crucible-holder-on-discord.md)
 
 ## **How do I claim the rewards?**
 

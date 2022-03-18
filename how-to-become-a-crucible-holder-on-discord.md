@@ -1,4 +1,4 @@
-# How to Become a "Certified Alchemist" on Discord
+# How to Become a "Crucible Holder" on Discord
 
 {% hint style="info" %}
 Learn how to Mint a Crucible here: [**https://docs.alchemist.wtf/crucible/guides-1/how-do-i-mint-a-crucible**](https://docs.alchemist.wtf/crucible/guides-1/how-do-i-mint-a-crucible)****
@@ -6,9 +6,9 @@ Learn how to Mint a Crucible here: [**https://docs.alchemist.wtf/crucible/guides
 
 If you own a Crucible, you can become a 'Crucible Holder' in our [Discord channel](https://discord.com/invite/qWQQMMKjKe) 🧙‍♂️⚗️. One perk of becoming a Crucible Holder is that it allows you to take part in discord votes and competitions.
 
-If your Crucible was minted using the online site, please jump to [**Part 2**](how-to-become-a-certified-alchemist-on-discord.md#part-2)****
+If your Crucible was minted using the online site, please jump to [**Part 2**](how-to-become-a-crucible-holder-on-discord.md#part-2)****
 
-If your Crucible was minted using [command line](https://github.com/alchemistcoin/alchemist), you need to log into a new MetaMask account using the mnemonics from your command line wallet. This is shown in [**Part 1**](how-to-become-a-certified-alchemist-on-discord.md#part-1)****
+If your Crucible was minted using [command line](https://github.com/alchemistcoin/alchemist), you need to log into a new MetaMask account using the mnemonics from your command line wallet. This is shown in [**Part 1**](how-to-become-a-crucible-holder-on-discord.md#part-1)****
 
 ## **Part 1**
 
@@ -34,4 +34,4 @@ After you have gained access to the wallet containing your Crucible, you can bec
 8. The font color of your name should now be the color red on the Discord chat screen, assuming you have no other roles
 9. If you left click on your Discord name you should see the role certified alchemist circled in red\
    ![](.gitbook/assets/kto91q1.png)
-10. Congratulations, your now a Certified Alchemist! 🧙‍♂️⚗️
+10. Congratulations, your now a Cruicible Holder! 🧙‍♂️⚗️

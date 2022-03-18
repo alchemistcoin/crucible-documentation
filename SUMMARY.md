@@ -17,7 +17,7 @@
 ***
 
 * [Acquiring ⚗️ & Adding Liquidity](acquiring-and-adding-liquidity.md)
-* [How to Become a "Certified Alchemist" on Discord](how-to-become-a-certified-alchemist-on-discord.md)
+* [How to Become a "Crucible Holder" on Discord](how-to-become-a-crucible-holder-on-discord.md)
 * [Wallet Compatibility](wallet-compatibility.md)
 * [Visual Guides](visual-guides.md)
 * [Frequently Asked Questions](frequently-asked-questions.md)

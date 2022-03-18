@@ -32,7 +32,7 @@ Contract Address: **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`**\
 Token Symbol: CRUCIBLE-V1\
 Token Decimal: 0
 
-## **How do I become a certified Alchemist in Discord?**
+## **How do I become a 'Crucible Holder'  in Discord?**
 
 * Please use this [guide](how-to-become-a-certified-alchemist-on-discord.md)
 

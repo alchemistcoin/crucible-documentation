@@ -39,6 +39,7 @@
 * [Discord](https://discord.com/invite/alchemist)
 * [Twitter](https://twitter.com/\_alchemistcoin)
 * [Medium](https://medium.com/alchemistcoin)
+* [Token Terminal](https://www.tokenterminal.com/terminal/projects/alchemist)
 * [Github](https://github.com/alchemistcoin)
 * [YouTube](https://www.youtube.com/channel/UCIs4LugynLei2TN\_\_lJh-6Q)
 * [Telegram](https://t.me/alchemistcoin)

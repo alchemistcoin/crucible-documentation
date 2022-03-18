@@ -18,7 +18,7 @@ If your Crucible was minted using [command line](https://github.com/alchemistcoi
 
 ## **Part 2**
 
-After you have gained access to the wallet containing your Crucible, you can become a certified alchemist following these steps:
+After you have gained access to the wallet containing your Crucible, you can become a 'Crucible Holder' following these steps:
 
 1. Join the [Alchemist discord server](https://discord.alchemist.wtf)
 2. On the [#verify-roles](https://discord.gg/hsSH5gB4c4) channel locate the message by `Collab.Land` called `Verify your assets`.

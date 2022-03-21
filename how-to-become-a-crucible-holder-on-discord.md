@@ -32,6 +32,6 @@ After you have gained access to the wallet containing your Crucible, you can bec
 7. Collab.Land will send you the following message and if you really own a Crucible the bot will update your role\
    ![](.gitbook/assets/1ummipm.png)
 8. The font color of your name should now be the color red on the Discord chat screen, assuming you have no other roles
-9. If you left click on your Discord name you should see the role certified alchemist circled in red\
-   ![](.gitbook/assets/kto91q1.png)
-10. Congratulations, your now a Cruicible Holder! 🧙‍♂️⚗️
+9. If you left click on your Discord name you should see the role ⚗️ Crucible Holder circled in red\
+   ![](<.gitbook/assets/Screenshot 2022-03-21 at 06.46.41.png>)
+10. Congratulations, your now a Crucible Holder! 🧙‍♂️⚗️

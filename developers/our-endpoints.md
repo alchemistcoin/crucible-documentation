@@ -4,7 +4,12 @@
 
 {% swagger method="get" path="/get-program-staked-usd" baseUrl="http://crucible.wtf/api" summary="" %}
 {% swagger-description %}
-This endpoint will return a JSON object of Reward Programs and the Total Staked Value in USD for each program.
+This endpoint will return a JSON object of Reward Programs and the Total Staked Value in USD for each program.\
+
+
+Example GET request (Mainnet):
+
+\`[http://crucible.wtf/api/get-program-staked-usd?network=1](http://crucible.wtf/api/get-program-staked-usd?network=1)\`
 {% endswagger-description %}
 
 {% swagger-parameter in="query" name="network" required="true" %}
@@ -32,7 +37,12 @@ e.g:
 
 {% swagger method="get" path="/get-program-rewards-usd" baseUrl="http://crucible.wtf/api" summary="" %}
 {% swagger-description %}
+This endpoint will return a JSON object of Reward Programs and the Total Rewards Value (of all tokens in the pool) in USD for each program.\
 
+
+Example GET request (Mainnet):
+
+\`[http://crucible.wtf/api/get-program-rewards-usd?network=1](http://crucible.wtf/api/get-program-rewards-usd?network=1)\`
 {% endswagger-description %}
 
 {% swagger-parameter in="query" name="network" %}

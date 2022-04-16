@@ -22,6 +22,10 @@
 * [Visual Guides](visual-guides.md)
 * [Frequently Asked Questions](frequently-asked-questions.md)
 
+## 👨💻 Developers
+
+* [Our Endpoints](developers/our-endpoints.md)
+
 ## Products
 
 ***

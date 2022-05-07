@@ -24,11 +24,11 @@
 
 ## Launching a Reward Program
 
-* [Introduction](launching-a-reward-program/introduction.md)
+* [Getting Started](launching-a-reward-program/getting-started.md)
+* [Why should I consider Crucible?](launching-a-reward-program/why-should-i-consider-crucible.md)
 * [Reward Program Contracts](launching-a-reward-program/reward-program-contracts.md)
-* [Page 1](launching-a-reward-program/page-1.md)
-* [Launching a Reward Program](launching-a-reward-program/launching-a-reward-program.md)
 * [Services and Fees](launching-a-reward-program/services-and-fees.md)
+* [Contacting the Team](launching-a-reward-program/contacting-the-team.md)
 
 ## 👨💻 Developers
 

@@ -25,8 +25,8 @@
 ## Launching a Reward Program
 
 * [Getting Started](launching-a-reward-program/getting-started.md)
-* [Why should I consider Crucible?](launching-a-reward-program/why-should-i-consider-crucible.md)
-* [Reward Program Mechanics](launching-a-reward-program/reward-program-mechanics.md)
+* [Why use Crucible?](launching-a-reward-program/why-use-crucible.md)
+* [Reward Program Mechanics](launching-a-reward-program/reward-program-contracts.md)
 * [Reward Program Configuration](launching-a-reward-program/reward-program-configuration.md)
 * [Services and Fees](launching-a-reward-program/services-and-fees.md)
 * [Contacting the Team](launching-a-reward-program/contacting-the-team.md)

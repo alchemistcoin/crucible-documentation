@@ -5,7 +5,7 @@ description: Please find our complete list of fees and services available to Tea
 # Services and Fees
 
 {% hint style="info" %}
-All services listed below are subject to criteria, to check if your project is eligible, please contact the Crucible team using the contact information available on the [Launching a reward program](broken-reference) page.
+All services listed below are subject to criteria, to check if your project is eligible, please contact the Crucible team using the contact information available on the "[Launching a reward program](broken-reference)" page.
 {% endhint %}
 
 ## Featuring your Reward Program

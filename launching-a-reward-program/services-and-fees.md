@@ -2,21 +2,11 @@
 description: Please find our complete list of fees and services available to Teams.
 ---
 
-# Fee Structure
+# Services and Fees
 
-## Launching a reward program
-
-Launching a reward program with Crucible has no charge, please reach out to our team on Discord and they will assist you to launch a reward program on the platform.
-
-The reward program contracts also does not deduct any fees upon funding however this may change in the future. Please note that any programs existing before a fee introduction will not be subject to a fee.
-
-{% embed url="https://discord.alchemist.wtf" %}
-
-Once you've joined our Discord server, please visit the #Crucible channel in the Helpdesk section and a member of the team help you out.
-
-Alternatively if you do not use Discord, you can use the form below to get in touch with the team.
-
-{% embed url="https://alchemistcoin.typeform.com/to/mYa5x2FW" %}
+{% hint style="info" %}
+All services listed below are subject to criteria, to check if your project is eligible, please contact the Crucible team using the contact information available on the [Launching a reward program](broken-reference) page.
+{% endhint %}
 
 ## Featuring your Reward Program
 

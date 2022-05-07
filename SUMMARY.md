@@ -28,8 +28,8 @@
 
 ## Launching a Reward Program
 
-* [Fee Structure](launching-a-reward-program/fee-structure.md)
-* [Page 1](launching-a-reward-program/page-1.md)
+* [Launching a reward program](launching-a-reward-program/launching-a-reward-program.md)
+* [Services and Fees](launching-a-reward-program/services-and-fees.md)
 
 ## Products
 

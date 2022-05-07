@@ -26,6 +26,11 @@
 
 * [Our Endpoints](developers/our-endpoints.md)
 
+## Launching a Reward Program
+
+* [Fee Structure](launching-a-reward-program/fee-structure.md)
+* [Page 1](launching-a-reward-program/page-1.md)
+
 ## Products
 
 ***

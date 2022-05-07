@@ -14,39 +14,39 @@ The rewards you receive will be from the unsubscribed 1 ⚗️-WETH LP, not the 
 
 1. To claim your rewards and unsubscribe your tokens open [crucible.alchemist.wtf](https://crucible.alchemist.wtf), connect your wallet and visit "Your Crucibles" tab.\
 
-2.  Once on the "Your Crucibles" tab, locate the locked token that you wish to claim rewards for on the summary page and click the ![](../.gitbook/assets/screenshot-2021-08-03-at-19.38.37.png) icon and click 'View \<Reward Program> Rewards'\
+2.  Once on the "Your Crucibles" tab, locate the locked token that you wish to claim rewards for on the summary page and click the <img src="../.gitbook/assets/screenshot-2021-08-03-at-19.38.37.png" alt="" data-size="original"> icon and click 'View \<Reward Program> Rewards'\
 
 
-    ![](../.gitbook/assets/screenshot-2021-08-03-at-19.38.12.png)\
-    ![](../.gitbook/assets/screenshot-2021-08-03-at-19.39.25.png) \
+    <img src="../.gitbook/assets/screenshot-2021-08-03-at-19.38.12.png" alt="" data-size="original">\
+    <img src="../.gitbook/assets/screenshot-2021-08-03-at-19.39.25.png" alt="" data-size="original"> \
 
 3. Your Crucible should now show you some more information, such as how much you have earned in rewards and your current position within the reward program \
-   ![](../.gitbook/assets/screenshot-2021-08-03-at-20.24.26.png) \
+   <img src="../.gitbook/assets/screenshot-2021-08-03-at-20.24.26.png" alt="" data-size="original"> \
 
-4. Either expand the subscription and click ![](../.gitbook/assets/screenshot-2021-08-03-at-20.25.08.png) or click "Unsubscribe" on the actions section of the reward program.\
-   ![](../.gitbook/assets/screenshot-2021-08-03-at-20.25.44.png) \
+4. Either expand the subscription and click <img src="../.gitbook/assets/screenshot-2021-08-03-at-20.25.08.png" alt="" data-size="original"> or click "Unsubscribe" on the actions section of the reward program.\
+   <img src="../.gitbook/assets/screenshot-2021-08-03-at-20.25.44.png" alt="" data-size="original"> \
 
 5. Fill in the prompt with how much LP you wish to unsubscribe and Click "Claim rewards and unsubscribe".\
    \
    If you have more than 1 subscription, you can use the visual representation to see how your rewards will be unsubscribed (as it is done on a last in, first out basis) for each subscription that you have.\
    \
    You can even click the number next to the subscription line in order to select the subscription level you wish to unsubscribe.\
-   ![](../.gitbook/assets/screenshot-2021-08-03-at-20.26.08.png) \
+   <img src="../.gitbook/assets/screenshot-2021-08-03-at-20.26.08.png" alt="" data-size="original"> \
 
 6. You will need to sign the first signature request, then you will be able to see the transaction cost for unsubscribing, pressing cancel will stop the process happening. If you agree and press <mark style="color:purple;">`OK`</mark>, you will be given a second signature request, click Sign.\
-   ![](../.gitbook/assets/screenshot-2021-08-03-at-20.27.23.png) \
-   ![](../.gitbook/assets/screenshot-2021-08-03-at-20.28.55.png) \
-   ![](../.gitbook/assets/screenshot-2021-08-03-at-20.32.35.png) \
+   <img src="../.gitbook/assets/screenshot-2021-08-03-at-20.27.23.png" alt="" data-size="original"> \
+   <img src="../.gitbook/assets/screenshot-2021-08-03-at-20.28.55.png" alt="" data-size="original"> \
+   <img src="../.gitbook/assets/screenshot-2021-08-03-at-20.32.35.png" alt="" data-size="original"> \
 
 7.  You will now get a message indicating that your claim is now being submitted via Flashbots. This is to protect your rewards from frontrunners. The process may take up to 5 minutes to complete.
 
-    ![](../.gitbook/assets/screenshot-2021-08-03-at-20.32.39.png)\
+    <img src="../.gitbook/assets/screenshot-2021-08-03-at-20.32.39.png" alt="" data-size="original">\
     \
     If you do not have enough ETH in your wallet for the transaction, you will receive a message as below.\
-    ![](../.gitbook/assets/screenshot-2021-08-03-at-20.35.09.png)\
+    <img src="../.gitbook/assets/screenshot-2021-08-03-at-20.35.09.png" alt="" data-size="original">\
 
 8. If your transaction is successful you will get the message below.\
-   ![](../.gitbook/assets/screenshot-2021-08-03-at-20.33.25.png)
+   <img src="../.gitbook/assets/screenshot-2021-08-03-at-20.33.25.png" alt="" data-size="original">
 
 {% hint style="warning" %}
 Due to the nature of bundling transactions, it's possible the transaction may not be successful on your first attempt. If this is the case, please try again.&#x20;

@@ -40,7 +40,7 @@ Minting a Basic Crucible is very straight forward and can be done via the "[Mint
    ![](<../.gitbook/assets/Screenshot 2022-03-15 at 22.33.47.png>)\
    \
    You can also use the "Your crucibles" tab, this should show your newly minted crucible \
-   &#x20;![](../.gitbook/assets/screenshot-2021-08-03-at-19.25.05.png) \
+   &#x20;<img src="../.gitbook/assets/screenshot-2021-08-03-at-19.25.05.png" alt="" data-size="original"> \
    &#x20;![](<../.gitbook/assets/Screenshot 2022-03-15 at 22.37.30.png>)
 
 ## Minting a Pro Crucible
@@ -63,7 +63,7 @@ Minting a Pro Crucible is very straight forward and can be done via the "[Mint a
    ![](<../.gitbook/assets/Screenshot 2022-03-15 at 22.33.47.png>)\
    \
    You can also use the "Your crucibles" tab, this should show your newly minted crucible \
-   &#x20;![](../.gitbook/assets/screenshot-2021-08-03-at-19.25.05.png) \
+   &#x20;<img src="../.gitbook/assets/screenshot-2021-08-03-at-19.25.05.png" alt="" data-size="original"> \
    &#x20; ![](<../.gitbook/assets/Screenshot 2022-03-15 at 22.42.07.png>)
 
 ## Minting a Platinum Crucible
@@ -96,17 +96,17 @@ Your MIST-WETH LP used to mint a Crucible is automatically subscribed to Aludel 
 8. Hit "Mint a Crucible", make necessary approvals via MetaMask, wait for the transaction to complete.\
    \
    **Note: There should be 2 signing requests and a transaction request, if they do not pop up you might have to open MetaMask.** \
-   ****![](../.gitbook/assets/screenshot-2021-08-03-at-19.19.35.png) \
-   ![](../.gitbook/assets/screenshot-2021-08-03-at-19.19.46.png) ![](<../.gitbook/assets/screenshot-2021-08-03-at-19.19.53 (1).png>) \
+   ****<img src="../.gitbook/assets/screenshot-2021-08-03-at-19.19.35.png" alt="" data-size="original"> \
+   <img src="../.gitbook/assets/screenshot-2021-08-03-at-19.19.46.png" alt="" data-size="original"> <img src="../.gitbook/assets/screenshot-2021-08-03-at-19.19.53 (1).png" alt="" data-size="original"> \
    &#x20; ![](<../.gitbook/assets/Screenshot 2022-03-15 at 22.31.47.png>)
 9. Once you have Confirmed your transaction you should receive the following prompts, click to view your transaction. Once your transaction has been confirmed, please move to the next step. \
    ![](<../.gitbook/assets/Screenshot 2022-03-15 at 22.51.08.png>)\
-   ![](../.gitbook/assets/screenshot-2021-08-03-at-19.20.34.png) \
-   ![](<../.gitbook/assets/screenshot-2021-08-03-at-19.20.58 (1).png>) \
+   <img src="../.gitbook/assets/screenshot-2021-08-03-at-19.20.34.png" alt="" data-size="original"> \
+   <img src="../.gitbook/assets/screenshot-2021-08-03-at-19.20.58 (1).png" alt="" data-size="original"> \
 
 10. Now your transaction is confirmed, click on the "Your crucibles" tab, this should show your newly minted crucible \
-    &#x20;![](../.gitbook/assets/screenshot-2021-08-03-at-19.25.05.png) \
-    ![](../.gitbook/assets/screenshot-2021-08-03-at-19.25.48.png) \
+    &#x20;<img src="../.gitbook/assets/screenshot-2021-08-03-at-19.25.05.png" alt="" data-size="original"> \
+    <img src="../.gitbook/assets/screenshot-2021-08-03-at-19.25.48.png" alt="" data-size="original"> \
 
 
 ## **Congratulations, if you've made it this far, you're now an Alchemist**

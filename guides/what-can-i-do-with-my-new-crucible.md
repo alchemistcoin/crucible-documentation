@@ -15,14 +15,14 @@ There are a number of things you can do with your newly minted crucible, below a
 
 1. Open [crucible.wtf](https://crucible.wtf) connect your wallet and visit "Your Crucibles" tab.
 2. Once on the "Your Crucibles" tab, click on the crucible that you want to view the rewards from.\
-   ![](../.gitbook/assets/screenshot-2021-08-03-at-19.25.48.png)&#x20;
+   <img src="../.gitbook/assets/screenshot-2021-08-03-at-19.25.48.png" alt="" data-size="original">&#x20;
 3. Your Crucible should now show you a summary of its contents, it will also show you your "Locked" tokens, which represent your active subscriptions\
-   ![](<../.gitbook/assets/screenshot-2021-08-03-at-19.38.12 (1).png>)
-4. If you want to see more detailed rewards, click on the ![](../.gitbook/assets/screenshot-2021-08-03-at-19.38.37.png) button next to the relevant subscription and then click "View \<Reward Program> Rewards" \
-   ![](../.gitbook/assets/screenshot-2021-08-03-at-19.39.25.png) \
+   <img src="../.gitbook/assets/screenshot-2021-08-03-at-19.38.12 (1).png" alt="" data-size="original">
+4. If you want to see more detailed rewards, click on the <img src="../.gitbook/assets/screenshot-2021-08-03-at-19.38.37.png" alt="" data-size="original"> button next to the relevant subscription and then click "View \<Reward Program> Rewards" \
+   <img src="../.gitbook/assets/screenshot-2021-08-03-at-19.39.25.png" alt="" data-size="original"> \
    &#x20;
 5. You should now be shown a more complex list of statistics under the tab "Rewards", including information about the reward multiplier, the value of your positions and your subscribed & unsubscribed LP.\
-   &#x20;![](../.gitbook/assets/screenshot-2021-08-03-at-19.40.10.png)
+   &#x20;<img src="../.gitbook/assets/screenshot-2021-08-03-at-19.40.10.png" alt="" data-size="original">
 
 ## Increasing your Subscription Stake
 
@@ -32,55 +32,55 @@ This example is based on Aludel v1.5. Other reward programs may use different ty
 
 1. Follow steps 1 - 5 from [Checking your Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
 2. Click the "Subscribe" button \
-   ![](../.gitbook/assets/screenshot-2021-08-03-at-19.40.58.png)
+   <img src="../.gitbook/assets/screenshot-2021-08-03-at-19.40.58.png" alt="" data-size="original">
 3. Select whether you want to add your subscription from your Crucible or Wallet \
-   ![](../.gitbook/assets/screenshot-2021-08-03-at-19.41.34.png)&#x20;
+   <img src="../.gitbook/assets/screenshot-2021-08-03-at-19.41.34.png" alt="" data-size="original">&#x20;
 4. Specify how much LP you wish to increase your subscription by and press "Add Subscription" \
-   ![](../.gitbook/assets/screenshot-2021-08-03-at-19.41.55.png)&#x20;
-5. Sign 1 signature requests and confirm the transaction request. ![](../.gitbook/assets/screenshot-2021-08-03-at-19.19.53.png)![](<../.gitbook/assets/screenshot-2021-08-03-at-19.20.06 (1).png>)&#x20;
+   <img src="../.gitbook/assets/screenshot-2021-08-03-at-19.41.55.png" alt="" data-size="original">&#x20;
+5. Sign 1 signature requests and confirm the transaction request. <img src="../.gitbook/assets/screenshot-2021-08-03-at-19.19.53.png" alt="" data-size="original"><img src="../.gitbook/assets/screenshot-2021-08-03-at-19.20.06 (1).png" alt="" data-size="original">&#x20;
 6. Your LP should now be submitted to be subscribed to the Crucible, you can view your transaction using either of the prompts that appear after your transaction has been submitted\
-   &#x20;![](<../.gitbook/assets/screenshot-2021-08-03-at-19.20.34 (1).png>) \
-   ![](../.gitbook/assets/screenshot-2021-08-03-at-19.20.58.png)&#x20;
+   &#x20;<img src="../.gitbook/assets/screenshot-2021-08-03-at-19.20.34 (1).png" alt="" data-size="original"> \
+   <img src="../.gitbook/assets/screenshot-2021-08-03-at-19.20.58.png" alt="" data-size="original">&#x20;
 7. Once the transactions are complete, your Crucible should now contain your newly submitted LP. \
-   ![](../.gitbook/assets/screenshot-2021-08-03-at-19.45.23.png)&#x20;
+   <img src="../.gitbook/assets/screenshot-2021-08-03-at-19.45.23.png" alt="" data-size="original">&#x20;
 
 ## Checking balances of current subscriptions or token balances within your Crucible
 
 1. Open [crucible.wtf](https://crucible.wtf), connect your wallet and visit "Your Crucibles" tab.
 2. Once on the "Your Crucibles" tab, click on the crucible that you want to view the rewards from.\
-   ![](../.gitbook/assets/screenshot-2021-08-03-at-19.25.48.png)&#x20;
+   <img src="../.gitbook/assets/screenshot-2021-08-03-at-19.25.48.png" alt="" data-size="original">&#x20;
 3. Your Crucible should now show you a summary of its contents\
    \
    `Locked Assets` are tokens that are currently subscribed to reward programs and are unable to be moved away from your Crucible until they are unsubscribed from the programs that they are locked to.\
    \
    `Unlocked Assets` are tokens within your Crucible that are currently free to be transferred in or out of your Crucible.\
    \
-   ![](<../.gitbook/assets/screenshot-2021-08-03-at-19.38.12 (1).png>)
+   <img src="../.gitbook/assets/screenshot-2021-08-03-at-19.38.12 (1).png" alt="" data-size="original">
 
 ## Transferring your Crucible to another wallet
 
 You can transfer your Crucible to another wallet without affecting the tokens that are within it or the active subscriptions. Everything within the Crucible will be maintained.
 
 1. Open the "Your Crucibles" page
-2. Locate your Crucible on the left hand side that you wish to transfer, and click the ![](../.gitbook/assets/screenshot-2021-08-03-at-19.38.37.png)icon
+2. Locate your Crucible on the left hand side that you wish to transfer, and click the <img src="../.gitbook/assets/screenshot-2021-08-03-at-19.38.37.png" alt="" data-size="original">icon
 3. Click the "Transfer" option on the menu that has popped up\
-   ![](../.gitbook/assets/screenshot-2021-08-03-at-19.48.11.png)&#x20;
+   <img src="../.gitbook/assets/screenshot-2021-08-03-at-19.48.11.png" alt="" data-size="original">&#x20;
 4. Enter the wallet address you wish to send the Crucible to in the "Recipient Address" field (Must be ERC-721 Compatible) and press "Transfer Crucible"\
-   ![](../.gitbook/assets/screenshot-2021-08-03-at-19.49.43.png)&#x20;
+   <img src="../.gitbook/assets/screenshot-2021-08-03-at-19.49.43.png" alt="" data-size="original">&#x20;
 5. You will get prompted to confirm the transfer, make sure the wallet address is correct before submitting it. \
-   ![](../.gitbook/assets/screenshot-2021-08-03-at-19.50.07.png)&#x20;
+   <img src="../.gitbook/assets/screenshot-2021-08-03-at-19.50.07.png" alt="" data-size="original">&#x20;
 6.  The Crucible will now be on its way to its new wallet, use the links in the notifications to monitor the transaction.
 
-    ![](<../.gitbook/assets/screenshot-2021-08-03-at-19.20.34 (1).png>)
+    <img src="../.gitbook/assets/screenshot-2021-08-03-at-19.20.34 (1).png" alt="" data-size="original">
 
-    ![](../.gitbook/assets/screenshot-2021-08-03-at-19.20.58.png)&#x20;
+    <img src="../.gitbook/assets/screenshot-2021-08-03-at-19.20.58.png" alt="" data-size="original">&#x20;
 
 ## Locating and Copying your Crucible Address
 
 1. Open the "Your Crucibles" page.
-2. Locate the Crucible that you want to copy the address from and click the ![](../.gitbook/assets/screenshot-2021-08-03-at-19.38.37.png) icon
+2. Locate the Crucible that you want to copy the address from and click the <img src="../.gitbook/assets/screenshot-2021-08-03-at-19.38.37.png" alt="" data-size="original"> icon
 3. Click the "Copy" option on the menu that pops up and your Crucible address will now be in your Clipboard. \
-   ![](../.gitbook/assets/screenshot-2021-08-03-at-19.52.22.png)&#x20;
+   <img src="../.gitbook/assets/screenshot-2021-08-03-at-19.52.22.png" alt="" data-size="original">&#x20;
 
 ## Viewing your Crucible artwork
 
@@ -109,7 +109,7 @@ You can now view your Crucible either on the Crucible website or on most NFT web
 
 1. Open [crucible.wtf](https://crucible.wtf), connect your wallet and visit "Your Crucibles" tab.
 2. Once on the "Your Crucibles" tab, click on the crucible that you want to view the rewards from.\
-   ![](../.gitbook/assets/screenshot-2021-08-03-at-19.25.48.png)&#x20;
+   <img src="../.gitbook/assets/screenshot-2021-08-03-at-19.25.48.png" alt="" data-size="original">&#x20;
 3. Click on the "View" Tab at the top of the section&#x20;
 
 ![](<../.gitbook/assets/Screenshot 2022-03-15 at 23.00.18.png>)
@@ -145,7 +145,7 @@ There are other various interactions hidden in the Crucible scene waiting to be 
 Your Crucible is a work of art and it's only natural to want to share it to the world.
 
 1. Open the "Your Crucibles" page.
-2. Locate the Crucible that you want to share from and click the ![](../.gitbook/assets/screenshot-2021-08-03-at-19.38.37.png) icon
+2. Locate the Crucible that you want to share from and click the <img src="../.gitbook/assets/screenshot-2021-08-03-at-19.38.37.png" alt="" data-size="line"> icon
 3. Depending on what information you wanted to disclose, you can choose from one of the 2 options for sharing your Crucible: \
    ![](<../.gitbook/assets/Screenshot 2022-03-15 at 23.08.18.png>)
 

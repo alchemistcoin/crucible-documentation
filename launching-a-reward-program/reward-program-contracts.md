@@ -12,7 +12,17 @@ This is a scaling mechanism that grows scales a users entitlement of rewards up 
 
 The multiplier contains 2 aspects - the min/max multiplier and the scaling duration.
 
-Example ``Reward program is configured to be: `1x` to `10x` over `10 days` A user has staked 10% of the staking tokens in the program; the multiplier mechanism means that they would not be eligible for 10% of the tokens in the reward pool straight away, they would need to scale up to that over the defined period. If the users share of the pool should be around 10 MIST, the multiplier in this example will make the user only be able to access 1 MIST at day 1, 2 MIST at day 2 etc.``
+Example
+
+> Reward program is configured to be: `1x` to `10x` over `10 days`
+>
+>
+>
+> A user has staked 10% of the staking tokens in the program; the multiplier mechanism means that they would not be eligible for 10% of the tokens in the reward pool straight away, they would need to scale up to that over the defined period.
+>
+>
+>
+> If the users share of the pool should be around 10 MIST, the multiplier in this example will make the user only be able to access 1 MIST at day 1, 2 MIST at day 2 etc.
 
 _**As the program is share based, a users share of the pool can also change depending on the activity of other users.**_
 

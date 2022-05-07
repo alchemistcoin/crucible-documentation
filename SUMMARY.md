@@ -25,7 +25,9 @@
 ## Launching a Reward Program
 
 * [Introduction](launching-a-reward-program/introduction.md)
-* [Launching a reward program](launching-a-reward-program/launching-a-reward-program.md)
+* [Reward Program Contracts](launching-a-reward-program/reward-program-contracts.md)
+* [Page 1](launching-a-reward-program/page-1.md)
+* [Launching a Reward Program](launching-a-reward-program/launching-a-reward-program.md)
 * [Services and Fees](launching-a-reward-program/services-and-fees.md)
 
 ## 👨💻 Developers

@@ -1,4 +1,4 @@
-# Why should I consider Crucible?
+# Why use Crucible?
 
 ![](<../.gitbook/assets/Gyroscope\_01 copy.png>)&#x20;
 

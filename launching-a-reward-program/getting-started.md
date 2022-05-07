@@ -12,7 +12,11 @@ The reward program contracts also do not deduct any fees from reward token depos
 
 We've included as much useful information as we could to help you make an informed decision, please find the topics below:
 
-
+* [Why use Crucible?](why-should-i-consider-crucible.md)
+* [Reward Program Mechanics](reward-program-contracts.md)
+* [Reward Program Configuration](reward-program-configuration.md)
+* [Services and Fees](services-and-fees.md)
+* [Contacting the Team](contacting-the-team.md)
 
 Once you're ready to launch your program, [please reach out to us here.](contacting-the-team.md)
 

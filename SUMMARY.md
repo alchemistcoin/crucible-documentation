@@ -22,14 +22,15 @@
 * [Visual Guides](visual-guides.md)
 * [Frequently Asked Questions](frequently-asked-questions.md)
 
+## Launching a Reward Program
+
+* [Introduction](launching-a-reward-program/introduction.md)
+* [Launching a reward program](launching-a-reward-program/launching-a-reward-program.md)
+* [Services and Fees](launching-a-reward-program/services-and-fees.md)
+
 ## 👨💻 Developers
 
 * [Our Endpoints](developers/our-endpoints.md)
-
-## Launching a Reward Program
-
-* [Launching a reward program](launching-a-reward-program/launching-a-reward-program.md)
-* [Services and Fees](launching-a-reward-program/services-and-fees.md)
 
 ## Products
 

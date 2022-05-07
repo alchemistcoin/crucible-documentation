@@ -10,7 +10,7 @@ The reward program contracts also do not deduct any fees from reward token depos
 
 {% embed url="https://discord.alchemist.wtf" %}
 
-Once you've joined our Discord server, please visit the `#Crucible` channel in the Helpdesk section and a member of the team help you out.
+Once you've joined our Discord server, please visit the #Crucible channel in the Helpdesk section and a member of the team help you out.
 
 Alternatively if you do not use Discord, you can use the form below to get in touch with the team.
 

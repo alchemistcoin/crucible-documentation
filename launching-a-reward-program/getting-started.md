@@ -16,8 +16,7 @@ We've included as much useful information as we could to help you make an inform
 * [Reward Program Mechanics](reward-program-contracts.md)
 * [Reward Program Configuration](reward-program-configuration.md)
 * [Services and Fees](services-and-fees.md)
-* [Contacting the Team](contacting-the-team.md)
 
-Once you're ready to launch your program, [please reach out to us here.](contacting-the-team.md)
+Ready to launch your program? [Reach out to the team](contacting-the-team.md)
 
 ## ****

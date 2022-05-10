@@ -51,7 +51,7 @@
 * [Alchemist Landing Page](https://www.alchemist.wtf)
 * [Discord](https://discord.com/invite/alchemist)
 * [Twitter](https://twitter.com/\_alchemistcoin)
-* [Medium](https://medium.com/alchemistcoin)
+* [Medium](https://blog.crucible.wtf)
 * [Token Terminal](https://www.tokenterminal.com/terminal/projects/alchemist)
 * [Github](https://github.com/alchemistcoin)
 * [YouTube](https://www.youtube.com/channel/UCIs4LugynLei2TN\_\_lJh-6Q)

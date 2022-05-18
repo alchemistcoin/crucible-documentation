@@ -39,10 +39,10 @@
 
 ***
 
-* [Crucible](https://crucible.alchemist.wtf)
+* [Crucible](https://crucible.alchemist.wtf/)
 * [Copper](https://copperlaunch.com)
-* [mistX](https://mistx.io)
-* [Sandwiched](https://sandwiched.wtf)
+* [mistX](https://mistx.io/)
+* [Sandwiched](https://sandwiched.wtf/)
 
 ## Links
 

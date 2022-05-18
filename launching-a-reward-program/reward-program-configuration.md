@@ -2,11 +2,15 @@
 
 ### **Variables**
 
-Staking Token (1) - This is the token you wish for users to 'lock' up to receive rewards, limited to ERC20, recommend to use LP tokens or similar for maximum benefit (LP farming) Reward Token (1) - This is the main token that you are rewarding to the user for locking the above token, this is the token that will be used for the main accounting. Bonus Token (0-50) - These are additional tokens that you wish to reward your users, these tokens will be available to the user based on the % of reward tokens the user is entitled to.
+`Staking Token` (1) - This is the token you wish for users to 'lock' up to receive rewards, limited to ERC20, recommend to use LP tokens or similar for maximum benefit (LP farming)&#x20;
+
+`Reward Token` (1) - This is the main token that you are rewarding to the user for locking the above token, this is the token that will be used for the main accounting.&#x20;
+
+`Bonus Token` (0-50) - These are additional tokens that you wish to reward your users, these tokens will be available to the user based on the % of reward tokens the user is entitled to.
 
 Multiplier: `Floor`, `Ceiling`, `Scaling Duration`
 
-#### Example 1:
+#### Multiplier Example 1:
 
 > Floor = 1
 >
@@ -16,7 +20,7 @@ Multiplier: `Floor`, `Ceiling`, `Scaling Duration`
 
 For this configuration users will start at 1x (10%) and scale to the ceiling of 10x (100%) over 60 days.
 
-#### Example 2:
+#### Multiplier Example 2:
 
 > Floor = 1
 >

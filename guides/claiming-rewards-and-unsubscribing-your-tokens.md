@@ -12,7 +12,7 @@ For example, suppose you have 1.7 ⚗️-WETH LP subscribed and its reward multi
 The rewards you receive will be from the unsubscribed 1 ⚗️-WETH LP, not the subscribed 0.7 ⚗️-WETH LP.
 {% endhint %}
 
-1. To claim your rewards and unsubscribe your tokens open [crucible.alchemist.wtf](https://crucible.alchemist.wtf), connect your wallet and visit "Your Crucibles" tab.\
+1. To claim your rewards and unsubscribe your tokens open [crucible.wtf](https://www.crucible.wtf/), connect your wallet and visit "Your Crucibles" tab.\
 
 2.  Once on the "Your Crucibles" tab, locate the locked token that you wish to claim rewards for on the summary page and click the <img src="../.gitbook/assets/screenshot-2021-08-03-at-19.38.37.png" alt="" data-size="original"> icon and click 'View \<Reward Program> Rewards'\
 

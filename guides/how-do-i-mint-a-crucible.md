@@ -22,7 +22,7 @@ The only currently compatible hardware wallet is Ledger when used with MetaMask.
 
 ## Minting a Basic Crucible
 
-Minting a Basic Crucible is very straight forward and can be done via the "[Mint a Crucible](https://crucible.alchemist.wtf/mint)" page on the [crucible.wtf](https://crucible.alchemist.wtf/mint) website.
+Minting a Basic Crucible is very straight forward and can be done via the "[Mint a Crucible](https://www.crucible.wtf/mint)" page on the [crucible.wtf](https://www.crucible.wtf/mint) website.
 
 1. Open [Crucible.wtf](https://crucible.wtf)
 2. Connect your wallet

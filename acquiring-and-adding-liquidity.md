@@ -2,17 +2,13 @@
 
 ### 1. Getting $MIST ⚗️
 
-Ever traded coins on mistX.io? If so you know how to do this already.
+Ever traded coins on uniswap? If so you know how to do this already.
 
-{% hint style="success" %}
-We recommend using [mistX.io](https://mistx.io) when trading $MIST as it will protect you from being front run. It also provides free cancellations and reverts and you may even win Cashback.&#x20;
-{% endhint %}
-
-1. Head to [Swap $MIST on mistX.io](http://swap.alchemist.wtf)
+1. Head to [Swap $MIST on Uniswap](https://swap.mist.alchemist.wtf)
 2. Connect MetaMask wallet
 3.  You should see something like this:
 
-    &#x20;![](.gitbook/assets/swap.jpeg)&#x20;
+    &#x20;<img src=".gitbook/assets/Screenshot 2022-06-27 at 17.30.10.png" alt="" data-size="original">&#x20;
 4. Enter the amount of ⚗️ you wish to purchase, ensuring you have an equivalent value of ETH remaining to use for the subscribing
 5. Hit "Swap", make necessary approvals via MetaMask, wait for the transaction to complete
    * mistX has the ability to let you increase the success rate of a transaction by clicking the Setting icon and choosing to pay a higher transaction fee.

@@ -83,7 +83,7 @@ These examples are on the assumption that the participation of the pool doesn't 
 
 ## **Can I somehow see how much rewards I have acquired in the meantime?**
 
-You can see the accumulated reward for your crucible by using the UI at [crucible.wtf](https://crucible.wtf) and the accumulated Uniswap LP fees earned using [apy.vision](https://apy.vision) or [croco.finance](https://croco.finance) (Uniswap LP fees earned will show as ⚗️, and WETH or ETH).
+You can see the accumulated reward for your crucible by using the UI at [crucible.wtf](https://crucible.wtf) and the accumulated Uniswap LP fees earned using [apy.vision](https://apy.vision/) or [croco.finance](https://croco.finance/) (Uniswap LP fees earned will show as ⚗️, and WETH or ETH).
 
 ![](.gitbook/assets/untitled-1-.png)
 

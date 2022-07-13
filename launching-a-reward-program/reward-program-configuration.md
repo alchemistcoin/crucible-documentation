@@ -41,3 +41,12 @@ You can deposit as frequently as you like and set any release times that suits y
 Some of our partners have expressed interest to deposit weekly into their reward programs so they can have a granular control over the rewards depending on the participation levels. If you wanted to do a large initial deposit as a one-off funding, that option is possible if you wanted to have a low maintenance approach.
 
 If you decide to use a single large deposit with a long release period, please consider a larger multiplier scaling period. If you over-fund the program and wish to extract the tokens that were deposited the only way to do is by shutting down the whole contract (irreversible) - so users who haven't claimed before the shutdown will lose their rewards. (You can always announce a claim period and let users know if they pass the claim period they will forfeit their rewards).
+
+### Simulation Sheet
+
+We've put together a basic worksheet that will help you simulate a users stake within a reward program and the release of funds and multiplier during the programs existence.
+
+[You can access the worksheet by clicking here](https://docs.google.com/spreadsheets/d/1uiV9GxpQWd4EVzkXuXQkZdHM6t8GfExiWCH0vPCBpzk/edit?usp=sharing)
+
+We recommend that you make a copy of this sheet and then edit it to suit your current usecase.
+

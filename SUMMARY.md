@@ -22,6 +22,10 @@
 * [Visual Guides](visual-guides.md)
 * [Frequently Asked Questions](frequently-asked-questions.md)
 
+## Misc
+
+* [Contract Addresses](misc/contract-addresses.md)
+
 ## Launching a Reward Program
 
 * [Getting Started](launching-a-reward-program/getting-started.md)

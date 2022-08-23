@@ -46,7 +46,6 @@
 
 * [Crucible](https://www.crucible.wtf)
 * [Copper](https://copperlaunch.com)
-* [Sandwiched](https://sandwiched.wtf/)
 
 ## Links
 

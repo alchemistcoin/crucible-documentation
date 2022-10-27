@@ -32,7 +32,7 @@
 * [Why use Crucible?](launching-a-reward-program/why-should-i-consider-crucible.md)
 * [Reward Program Mechanics](launching-a-reward-program/reward-program-contracts.md)
 * [Reward Program Configuration](launching-a-reward-program/reward-program-configuration.md)
-* [Reward Program Simulation](https://docs.google.com/spreadsheets/d/1VY1Pp6rSXQClGTf7OjHb3VSF-6y80wZ2y\_AVbD4PNh0/edit?usp=sharing)
+* [Reward Program Simulation](https://docs.google.com/spreadsheets/d/162ogkFVVzm29jzKAwVhVtX4fbnPoKjtmDZnjWVLGLlA/edit?usp=sharing)
 * [Services and Fees](launching-a-reward-program/services-and-fees.md)
 * [Contacting the Team](launching-a-reward-program/contacting-the-team.md)
 

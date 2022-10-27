@@ -45,7 +45,8 @@
 ***
 
 * [Crucible](https://www.crucible.wtf)
-* [Copper](https://copperlaunch.com)
+* [Fjord Foundry](https://copperlaunch.com)
+* [Fjord NFTs](https://fjordnfts.com/)
 
 ## Links
 

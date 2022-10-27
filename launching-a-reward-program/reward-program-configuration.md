@@ -46,7 +46,7 @@ If you decide to use a single large deposit with a long release period, please c
 
 We've put together a basic worksheet that will help you simulate a users stake within a reward program and the release of funds and multiplier during the programs existence.
 
-[You can access the worksheet by clicking here](https://docs.google.com/spreadsheets/d/1uiV9GxpQWd4EVzkXuXQkZdHM6t8GfExiWCH0vPCBpzk/edit?usp=sharing)
+[You can access the worksheet by clicking here](https://docs.google.com/spreadsheets/d/162ogkFVVzm29jzKAwVhVtX4fbnPoKjtmDZnjWVLGLlA/edit?usp=sharing)
 
 We recommend that you make a copy of this sheet and then edit it to suit your current usecase.
 
